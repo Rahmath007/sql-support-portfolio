@@ -1,0 +1,25 @@
+# age = 30
+
+# cities = ["New York", "Los Angeles", "Chicago"]
+
+# user = {
+#     "name": "Alice",
+#     "email": "rahmatrh@example.com",
+#     "age": 20,}
+
+
+# def add_numbers(a,b):
+#     return a + b
+
+
+# print (age)
+# print(cities)
+# print(user)
+# print(add_numbers(5, 10))
+
+
+try:
+    num = int("hello")
+except Exception as e:
+    print("An error happened:", e)
+
